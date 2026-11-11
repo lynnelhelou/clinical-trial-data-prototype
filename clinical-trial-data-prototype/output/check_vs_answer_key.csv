@@ -1,0 +1,8 @@
+,seeded,found,match
+diastolic_ge_systolic,20,20,True
+duplicate_participant,8,8,True
+missing_required,50,50,True
+out_of_range,30,30,True
+out_of_window,40,40,True
+status_mismatch,15,15,True
+TOTAL,163,163,True

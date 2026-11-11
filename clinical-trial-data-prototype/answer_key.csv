@@ -1,0 +1,164 @@
+error_type,record,detail
+status_mismatch,P0259,Completed but a visit was missed
+status_mismatch,P0076,Completed but a visit was missed
+status_mismatch,P0214,Completed but a visit was missed
+status_mismatch,P0360,Completed but a visit was missed
+status_mismatch,P0272,Completed but a visit was missed
+status_mismatch,P0046,Completed but a visit was missed
+status_mismatch,P0279,Completed but a visit was missed
+status_mismatch,P0321,Completed but a visit was missed
+status_mismatch,P0189,Completed but a visit was missed
+status_mismatch,P0419,Completed but a visit was missed
+status_mismatch,P0247,Completed but a visit was missed
+status_mismatch,P0088,Completed but a visit was missed
+status_mismatch,P0222,Completed but a visit was missed
+status_mismatch,P0404,Completed but a visit was missed
+status_mismatch,P0105,Completed but a visit was missed
+out_of_window,1723,actual date far from scheduled date
+out_of_window,2034,actual date far from scheduled date
+out_of_window,2189,actual date far from scheduled date
+out_of_window,2395,actual date far from scheduled date
+out_of_window,472,actual date far from scheduled date
+out_of_window,2197,actual date far from scheduled date
+out_of_window,675,actual date far from scheduled date
+out_of_window,1944,actual date far from scheduled date
+out_of_window,862,actual date far from scheduled date
+out_of_window,753,actual date far from scheduled date
+out_of_window,2200,actual date far from scheduled date
+out_of_window,4,actual date far from scheduled date
+out_of_window,935,actual date far from scheduled date
+out_of_window,395,actual date far from scheduled date
+out_of_window,2328,actual date far from scheduled date
+out_of_window,1484,actual date far from scheduled date
+out_of_window,694,actual date far from scheduled date
+out_of_window,32,actual date far from scheduled date
+out_of_window,2492,actual date far from scheduled date
+out_of_window,1353,actual date far from scheduled date
+out_of_window,5,actual date far from scheduled date
+out_of_window,50,actual date far from scheduled date
+out_of_window,774,actual date far from scheduled date
+out_of_window,962,actual date far from scheduled date
+out_of_window,1083,actual date far from scheduled date
+out_of_window,2390,actual date far from scheduled date
+out_of_window,69,actual date far from scheduled date
+out_of_window,1184,actual date far from scheduled date
+out_of_window,2177,actual date far from scheduled date
+out_of_window,619,actual date far from scheduled date
+out_of_window,1134,actual date far from scheduled date
+out_of_window,2157,actual date far from scheduled date
+out_of_window,1383,actual date far from scheduled date
+out_of_window,1593,actual date far from scheduled date
+out_of_window,2225,actual date far from scheduled date
+out_of_window,2173,actual date far from scheduled date
+out_of_window,1844,actual date far from scheduled date
+out_of_window,1008,actual date far from scheduled date
+out_of_window,318,actual date far from scheduled date
+out_of_window,1208,actual date far from scheduled date
+missing_required,2084,systolic_bp left blank
+missing_required,1792,diastolic_bp left blank
+missing_required,1340,diastolic_bp left blank
+missing_required,980,systolic_bp left blank
+missing_required,1608,heart_rate left blank
+missing_required,2456,systolic_bp left blank
+missing_required,642,systolic_bp left blank
+missing_required,2062,heart_rate left blank
+missing_required,897,diastolic_bp left blank
+missing_required,2117,heart_rate left blank
+missing_required,1483,diastolic_bp left blank
+missing_required,151,systolic_bp left blank
+missing_required,313,heart_rate left blank
+missing_required,1623,weight_kg left blank
+missing_required,51,systolic_bp left blank
+missing_required,2323,systolic_bp left blank
+missing_required,1548,weight_kg left blank
+missing_required,2123,weight_kg left blank
+missing_required,15,diastolic_bp left blank
+missing_required,796,weight_kg left blank
+missing_required,1610,heart_rate left blank
+missing_required,641,systolic_bp left blank
+missing_required,1237,diastolic_bp left blank
+missing_required,1938,diastolic_bp left blank
+missing_required,564,systolic_bp left blank
+missing_required,835,systolic_bp left blank
+missing_required,1867,systolic_bp left blank
+missing_required,1335,diastolic_bp left blank
+missing_required,1214,weight_kg left blank
+missing_required,699,weight_kg left blank
+missing_required,1754,weight_kg left blank
+missing_required,949,systolic_bp left blank
+missing_required,194,diastolic_bp left blank
+missing_required,751,systolic_bp left blank
+missing_required,116,systolic_bp left blank
+missing_required,2420,systolic_bp left blank
+missing_required,1596,heart_rate left blank
+missing_required,201,diastolic_bp left blank
+missing_required,482,diastolic_bp left blank
+missing_required,2269,heart_rate left blank
+missing_required,1326,no measurement record
+missing_required,844,no measurement record
+missing_required,1230,no measurement record
+missing_required,1141,no measurement record
+missing_required,2065,no measurement record
+missing_required,1619,no measurement record
+missing_required,160,no measurement record
+missing_required,1842,no measurement record
+missing_required,1476,no measurement record
+missing_required,1597,no measurement record
+out_of_range,833,heart_rate set to impossible value
+out_of_range,635,diastolic_bp set to impossible value
+out_of_range,1990,weight_kg set to impossible value
+out_of_range,305,diastolic_bp set to impossible value
+out_of_range,1321,heart_rate set to impossible value
+out_of_range,343,weight_kg set to impossible value
+out_of_range,2371,heart_rate set to impossible value
+out_of_range,612,systolic_bp set to impossible value
+out_of_range,1078,weight_kg set to impossible value
+out_of_range,2263,weight_kg set to impossible value
+out_of_range,2491,heart_rate set to impossible value
+out_of_range,2282,systolic_bp set to impossible value
+out_of_range,1220,systolic_bp set to impossible value
+out_of_range,1687,systolic_bp set to impossible value
+out_of_range,750,heart_rate set to impossible value
+out_of_range,532,heart_rate set to impossible value
+out_of_range,1123,heart_rate set to impossible value
+out_of_range,1641,weight_kg set to impossible value
+out_of_range,54,diastolic_bp set to impossible value
+out_of_range,912,weight_kg set to impossible value
+out_of_range,1047,diastolic_bp set to impossible value
+out_of_range,2427,diastolic_bp set to impossible value
+out_of_range,1137,heart_rate set to impossible value
+out_of_range,1207,systolic_bp set to impossible value
+out_of_range,969,diastolic_bp set to impossible value
+out_of_range,2454,weight_kg set to impossible value
+out_of_range,139,weight_kg set to impossible value
+out_of_range,1371,systolic_bp set to impossible value
+out_of_range,1546,diastolic_bp set to impossible value
+out_of_range,1280,weight_kg set to impossible value
+diastolic_ge_systolic,2156,BP entered as 102/102
+diastolic_ge_systolic,932,BP entered as 104/104
+diastolic_ge_systolic,2122,BP entered as 114/114
+diastolic_ge_systolic,527,BP entered as 108/108
+diastolic_ge_systolic,2314,BP entered as 107/107
+diastolic_ge_systolic,1975,BP entered as 107/107
+diastolic_ge_systolic,2448,BP entered as 115/115
+diastolic_ge_systolic,2346,BP entered as 110/110
+diastolic_ge_systolic,761,BP entered as 106/106
+diastolic_ge_systolic,1686,BP entered as 102/102
+diastolic_ge_systolic,1367,BP entered as 103/103
+diastolic_ge_systolic,481,BP entered as 103/103
+diastolic_ge_systolic,11,BP entered as 104/104
+diastolic_ge_systolic,2481,BP entered as 107/107
+diastolic_ge_systolic,2489,BP entered as 111/111
+diastolic_ge_systolic,1558,BP entered as 100/100
+diastolic_ge_systolic,494,BP entered as 108/108
+diastolic_ge_systolic,239,BP entered as 105/105
+diastolic_ge_systolic,1146,BP entered as 112/112
+diastolic_ge_systolic,769,BP entered as 111/111
+duplicate_participant,P0158 / P0501,"same site, birth date, sex and enrollment date"
+duplicate_participant,P0400 / P0502,"same site, birth date, sex and enrollment date"
+duplicate_participant,P0216 / P0503,"same site, birth date, sex and enrollment date"
+duplicate_participant,P0132 / P0504,"same site, birth date, sex and enrollment date"
+duplicate_participant,P0487 / P0505,"same site, birth date, sex and enrollment date"
+duplicate_participant,P0375 / P0506,"same site, birth date, sex and enrollment date"
+duplicate_participant,P0323 / P0507,"same site, birth date, sex and enrollment date"
+duplicate_participant,P0156 / P0508,"same site, birth date, sex and enrollment date"

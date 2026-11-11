@@ -1,0 +1,164 @@
+check_name,site_id,participant_id,visit_id,detail
+missing_required,7,P0003,15,missing: diastolic_bp
+missing_required,3,P0011,51,missing: systolic_bp
+missing_required,3,P0024,116,missing: systolic_bp
+missing_required,5,P0031,151,missing: systolic_bp
+missing_required,2,P0032,160,no measurement record
+missing_required,10,P0039,194,missing: diastolic_bp
+missing_required,6,P0041,201,missing: diastolic_bp
+missing_required,5,P0063,313,missing: heart_rate
+missing_required,7,P0097,482,missing: diastolic_bp
+missing_required,1,P0113,564,missing: systolic_bp
+missing_required,9,P0129,641,missing: systolic_bp
+missing_required,9,P0129,642,missing: systolic_bp
+missing_required,1,P0140,699,missing: weight_kg
+missing_required,3,P0151,751,missing: systolic_bp
+missing_required,9,P0160,796,missing: weight_kg
+missing_required,7,P0167,835,missing: systolic_bp
+missing_required,2,P0169,844,no measurement record
+missing_required,6,P0180,897,missing: diastolic_bp
+missing_required,3,P0190,949,missing: systolic_bp
+missing_required,3,P0196,980,missing: systolic_bp
+missing_required,8,P0229,1141,no measurement record
+missing_required,9,P0243,1214,missing: weight_kg
+missing_required,9,P0246,1230,no measurement record
+missing_required,8,P0248,1237,missing: diastolic_bp
+missing_required,4,P0266,1326,no measurement record
+missing_required,8,P0267,1335,missing: diastolic_bp
+missing_required,10,P0268,1340,missing: diastolic_bp
+missing_required,2,P0296,1476,no measurement record
+missing_required,4,P0297,1483,missing: diastolic_bp
+missing_required,7,P0310,1548,missing: weight_kg
+missing_required,7,P0320,1596,missing: heart_rate
+missing_required,7,P0320,1597,no measurement record
+missing_required,9,P0322,1608,missing: heart_rate
+missing_required,9,P0322,1610,missing: heart_rate
+missing_required,4,P0324,1619,no measurement record
+missing_required,9,P0325,1623,missing: weight_kg
+missing_required,3,P0351,1754,missing: weight_kg
+missing_required,7,P0359,1792,missing: diastolic_bp
+missing_required,3,P0369,1842,no measurement record
+missing_required,1,P0374,1867,missing: systolic_bp
+missing_required,10,P0388,1938,missing: diastolic_bp
+missing_required,3,P0413,2062,missing: heart_rate
+missing_required,3,P0413,2065,no measurement record
+missing_required,3,P0417,2084,missing: systolic_bp
+missing_required,1,P0424,2117,missing: heart_rate
+missing_required,1,P0425,2123,missing: weight_kg
+missing_required,4,P0454,2269,missing: heart_rate
+missing_required,7,P0465,2323,missing: systolic_bp
+missing_required,7,P0484,2420,missing: systolic_bp
+missing_required,3,P0492,2456,missing: systolic_bp
+out_of_range,7,P0123,612,systolic_bp = 259 (allowed 70 to 200)
+out_of_range,3,P0242,1207,systolic_bp = 247 (allowed 70 to 200)
+out_of_range,7,P0244,1220,systolic_bp = 242 (allowed 70 to 200)
+out_of_range,9,P0275,1371,systolic_bp = 230 (allowed 70 to 200)
+out_of_range,7,P0338,1687,systolic_bp = 250 (allowed 70 to 200)
+out_of_range,3,P0457,2282,systolic_bp = 246 (allowed 70 to 200)
+out_of_range,3,P0011,54,diastolic_bp = 23 (allowed 40 to 120)
+out_of_range,6,P0061,305,diastolic_bp = 19 (allowed 40 to 120)
+out_of_range,2,P0127,635,diastolic_bp = 24 (allowed 40 to 120)
+out_of_range,7,P0194,969,diastolic_bp = 21 (allowed 40 to 120)
+out_of_range,9,P0210,1047,diastolic_bp = 15 (allowed 40 to 120)
+out_of_range,7,P0310,1546,diastolic_bp = 20 (allowed 40 to 120)
+out_of_range,9,P0486,2427,diastolic_bp = 21 (allowed 40 to 120)
+out_of_range,6,P0107,532,heart_rate = 230 (allowed 40 to 150)
+out_of_range,4,P0150,750,heart_rate = 12 (allowed 40 to 150)
+out_of_range,7,P0167,833,heart_rate = 16 (allowed 40 to 150)
+out_of_range,3,P0225,1123,heart_rate = 11 (allowed 40 to 150)
+out_of_range,3,P0228,1137,heart_rate = 201 (allowed 40 to 150)
+out_of_range,9,P0265,1321,heart_rate = 20 (allowed 40 to 150)
+out_of_range,2,P0475,2371,heart_rate = 16 (allowed 40 to 150)
+out_of_range,5,P0499,2491,heart_rate = 200 (allowed 40 to 150)
+out_of_range,2,P0028,139,weight_kg = 352.0 (allowed 35 to 200)
+out_of_range,9,P0069,343,weight_kg = 12.0 (allowed 35 to 200)
+out_of_range,4,P0183,912,weight_kg = 14.0 (allowed 35 to 200)
+out_of_range,2,P0216,1078,weight_kg = 14.0 (allowed 35 to 200)
+out_of_range,1,P0256,1280,weight_kg = 13.0 (allowed 35 to 200)
+out_of_range,4,P0329,1641,weight_kg = 14.0 (allowed 35 to 200)
+out_of_range,9,P0398,1990,weight_kg = 303.0 (allowed 35 to 200)
+out_of_range,3,P0453,2263,weight_kg = 11.0 (allowed 35 to 200)
+out_of_range,4,P0491,2454,weight_kg = 17.0 (allowed 35 to 200)
+diastolic_ge_systolic,7,P0003,11,BP entered as 104/104
+diastolic_ge_systolic,5,P0048,239,BP entered as 105/105
+diastolic_ge_systolic,7,P0097,481,BP entered as 103/103
+diastolic_ge_systolic,10,P0099,494,BP entered as 108/108
+diastolic_ge_systolic,7,P0106,527,BP entered as 108/108
+diastolic_ge_systolic,3,P0153,761,BP entered as 106/106
+diastolic_ge_systolic,5,P0154,769,BP entered as 111/111
+diastolic_ge_systolic,7,P0187,932,BP entered as 104/104
+diastolic_ge_systolic,8,P0230,1146,BP entered as 112/112
+diastolic_ge_systolic,6,P0274,1367,BP entered as 103/103
+diastolic_ge_systolic,3,P0312,1558,BP entered as 100/100
+diastolic_ge_systolic,7,P0338,1686,BP entered as 102/102
+diastolic_ge_systolic,4,P0395,1975,BP entered as 107/107
+diastolic_ge_systolic,1,P0425,2122,BP entered as 114/114
+diastolic_ge_systolic,3,P0432,2156,BP entered as 102/102
+diastolic_ge_systolic,8,P0463,2314,BP entered as 107/107
+diastolic_ge_systolic,2,P0470,2346,BP entered as 110/110
+diastolic_ge_systolic,5,P0490,2448,BP entered as 115/115
+diastolic_ge_systolic,2,P0497,2481,BP entered as 107/107
+diastolic_ge_systolic,5,P0498,2489,BP entered as 111/111
+out_of_window,2,P0001,4,visit 4 happened 9 days from its scheduled date (window is 3)
+out_of_window,2,P0001,5,visit 5 happened 12 days from its scheduled date (window is 3)
+out_of_window,3,P0007,32,visit 2 happened 20 days from its scheduled date (window is 3)
+out_of_window,7,P0010,50,visit 5 happened 15 days from its scheduled date (window is 3)
+out_of_window,2,P0014,69,visit 4 happened 12 days from its scheduled date (window is 3)
+out_of_window,7,P0064,318,visit 3 happened 16 days from its scheduled date (window is 3)
+out_of_window,8,P0079,395,visit 5 happened 17 days from its scheduled date (window is 3)
+out_of_window,7,P0095,472,visit 2 happened 14 days from its scheduled date (window is 3)
+out_of_window,7,P0124,619,visit 4 happened 20 days from its scheduled date (window is 3)
+out_of_window,3,P0135,675,visit 5 happened 19 days from its scheduled date (window is 3)
+out_of_window,6,P0139,694,visit 4 happened 15 days from its scheduled date (window is 3)
+out_of_window,3,P0151,753,visit 3 happened 10 days from its scheduled date (window is 3)
+out_of_window,2,P0155,774,visit 4 happened 10 days from its scheduled date (window is 3)
+out_of_window,1,P0173,862,visit 2 happened 16 days from its scheduled date (window is 3)
+out_of_window,7,P0187,935,visit 5 happened 10 days from its scheduled date (window is 3)
+out_of_window,4,P0193,962,visit 2 happened 19 days from its scheduled date (window is 3)
+out_of_window,1,P0202,1008,visit 3 happened 11 days from its scheduled date (window is 3)
+out_of_window,3,P0217,1083,visit 3 happened 14 days from its scheduled date (window is 3)
+out_of_window,7,P0227,1134,visit 4 happened 14 days from its scheduled date (window is 3)
+out_of_window,7,P0237,1184,visit 4 happened 10 days from its scheduled date (window is 3)
+out_of_window,3,P0242,1208,visit 3 happened 12 days from its scheduled date (window is 3)
+out_of_window,1,P0271,1353,visit 3 happened 20 days from its scheduled date (window is 3)
+out_of_window,7,P0277,1383,visit 3 happened 10 days from its scheduled date (window is 3)
+out_of_window,4,P0297,1484,visit 4 happened 13 days from its scheduled date (window is 3)
+out_of_window,3,P0319,1593,visit 3 happened 19 days from its scheduled date (window is 3)
+out_of_window,1,P0345,1723,visit 3 happened 9 days from its scheduled date (window is 3)
+out_of_window,3,P0369,1844,visit 4 happened 8 days from its scheduled date (window is 3)
+out_of_window,3,P0389,1944,visit 4 happened 15 days from its scheduled date (window is 3)
+out_of_window,8,P0407,2034,visit 4 happened 15 days from its scheduled date (window is 3)
+out_of_window,3,P0432,2157,visit 2 happened 9 days from its scheduled date (window is 3)
+out_of_window,1,P0435,2173,visit 3 happened 10 days from its scheduled date (window is 3)
+out_of_window,4,P0436,2177,visit 2 happened 18 days from its scheduled date (window is 3)
+out_of_window,5,P0438,2189,visit 4 happened 17 days from its scheduled date (window is 3)
+out_of_window,3,P0440,2197,visit 2 happened 15 days from its scheduled date (window is 3)
+out_of_window,3,P0440,2200,visit 5 happened 11 days from its scheduled date (window is 3)
+out_of_window,7,P0445,2225,visit 5 happened 9 days from its scheduled date (window is 3)
+out_of_window,5,P0466,2328,visit 3 happened 17 days from its scheduled date (window is 3)
+out_of_window,3,P0478,2390,visit 5 happened 20 days from its scheduled date (window is 3)
+out_of_window,9,P0479,2395,visit 5 happened 16 days from its scheduled date (window is 3)
+out_of_window,5,P0499,2492,visit 2 happened 8 days from its scheduled date (window is 3)
+duplicate_participant,2,P0375 / P0506,,"same site, birth date, sex and enrollment date"
+duplicate_participant,2,P0216 / P0503,,"same site, birth date, sex and enrollment date"
+duplicate_participant,4,P0400 / P0502,,"same site, birth date, sex and enrollment date"
+duplicate_participant,4,P0156 / P0508,,"same site, birth date, sex and enrollment date"
+duplicate_participant,9,P0158 / P0501,,"same site, birth date, sex and enrollment date"
+duplicate_participant,10,P0487 / P0505,,"same site, birth date, sex and enrollment date"
+duplicate_participant,10,P0323 / P0507,,"same site, birth date, sex and enrollment date"
+duplicate_participant,10,P0132 / P0504,,"same site, birth date, sex and enrollment date"
+status_mismatch,2,P0046,,status is Completed but only 4 of 5 visits completed
+status_mismatch,2,P0076,,status is Completed but only 4 of 5 visits completed
+status_mismatch,3,P0088,,status is Completed but only 4 of 5 visits completed
+status_mismatch,10,P0105,,status is Completed but only 4 of 5 visits completed
+status_mismatch,7,P0189,,status is Completed but only 4 of 5 visits completed
+status_mismatch,7,P0214,,status is Completed but only 4 of 5 visits completed
+status_mismatch,10,P0222,,status is Completed but only 4 of 5 visits completed
+status_mismatch,4,P0247,,status is Completed but only 4 of 5 visits completed
+status_mismatch,1,P0259,,status is Completed but only 4 of 5 visits completed
+status_mismatch,9,P0272,,status is Completed but only 4 of 5 visits completed
+status_mismatch,7,P0279,,status is Completed but only 4 of 5 visits completed
+status_mismatch,7,P0321,,status is Completed but only 4 of 5 visits completed
+status_mismatch,2,P0360,,status is Completed but only 4 of 5 visits completed
+status_mismatch,10,P0404,,status is Completed but only 4 of 5 visits completed
+status_mismatch,3,P0419,,status is Completed but only 4 of 5 visits completed
